@@ -13,7 +13,7 @@ Deskripsi program: Simple chat system with socket programming
 <br></br>
 
 Untuk menjalankan program berikut: <br></br>
--Dijalankan python file (server.py) terlebih dahulu, tunggu sebentar hingga IP yang ada aktif <br></br>
+-Dijalankan python file (server.py) terlebih dahulu, tunggu sebentar hingga IP yang ada aktif // Host: 127.0.0.4 dengan Port: 8888 <br></br>
 -Kemudian jalankan python file (client.py) untuk user <br></br>
 -Untuk python file user dapat dijalankan beberapa kali pada terminal-terminal lainnya <br></br>
 -Semua terminal client akan terhubung kepada terminal server <br></br>

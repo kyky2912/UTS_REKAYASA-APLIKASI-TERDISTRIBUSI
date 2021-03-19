@@ -22,7 +22,7 @@ Untuk menjalankan program berikut: <br></br>
 Terima Kasih :) 
 
 Server.py <br>
-![Capture1](https://user-images.githubusercontent.com/52888940/111142936-d42a8d80-85b7-11eb-948b-86b6c908b36e.JPG) </br>
+![zz](https://user-images.githubusercontent.com/52888940/111793221-a1ee9800-88f7-11eb-837f-f6022c660a89.JPG) </br>
 
 Client.py (a.k.a Awi) <br>
 ![Capture2](https://user-images.githubusercontent.com/52888940/111142942-d5f45100-85b7-11eb-8b2d-0d8671752e8f.JPG) </br>

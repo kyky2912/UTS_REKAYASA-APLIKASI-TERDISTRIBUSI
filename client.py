@@ -6,7 +6,7 @@ import errno
 
 HEADER= 1
 
-IP = "127.0.0.4"
+IP = "127.0.0.1"
 PORT = 8888
 my_username = input("Masukkan Username Anda: ")
 

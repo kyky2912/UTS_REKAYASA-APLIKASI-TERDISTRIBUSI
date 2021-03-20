@@ -4,7 +4,7 @@ import select
 
 HEADER= 1
 
-IP = "127.0.0.4"
+IP = "127.0.0.1"
 PORT = 8888
 
 #Membuat socket
